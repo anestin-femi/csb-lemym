@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,MACE,YACF,CAEA,gBAEE,cACF","file":"main.e771d3fb.chunk.css","sourcesContent":[".flex {\n  display: flex;\n}\n\nbutton,\n.product {\n  cursor: pointer;\n}\n"]}

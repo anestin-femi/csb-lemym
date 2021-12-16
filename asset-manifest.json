@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anestin-femi.github.io/csb-lemym/static/css/main.e771d3fb.chunk.css",
+    "main.js": "https://anestin-femi.github.io/csb-lemym/static/js/main.aa0cb3e0.chunk.js",
+    "main.js.map": "https://anestin-femi.github.io/csb-lemym/static/js/main.aa0cb3e0.chunk.js.map",
+    "runtime-main.js": "https://anestin-femi.github.io/csb-lemym/static/js/runtime-main.e39317e0.js",
+    "runtime-main.js.map": "https://anestin-femi.github.io/csb-lemym/static/js/runtime-main.e39317e0.js.map",
+    "static/js/2.8cac92ed.chunk.js": "https://anestin-femi.github.io/csb-lemym/static/js/2.8cac92ed.chunk.js",
+    "static/js/2.8cac92ed.chunk.js.map": "https://anestin-femi.github.io/csb-lemym/static/js/2.8cac92ed.chunk.js.map",
+    "index.html": "https://anestin-femi.github.io/csb-lemym/index.html",
+    "static/css/main.e771d3fb.chunk.css.map": "https://anestin-femi.github.io/csb-lemym/static/css/main.e771d3fb.chunk.css.map",
+    "static/js/2.8cac92ed.chunk.js.LICENSE.txt": "https://anestin-femi.github.io/csb-lemym/static/js/2.8cac92ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e39317e0.js",
+    "static/js/2.8cac92ed.chunk.js",
+    "static/css/main.e771d3fb.chunk.css",
+    "static/js/main.aa0cb3e0.chunk.js"
+  ]
+}
